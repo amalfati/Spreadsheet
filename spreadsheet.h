@@ -8,7 +8,7 @@
 #include <QToolBar>
 #include <QLabel>
 #include <QStatusBar>
-#include<QSettings>
+
 
 
 class SpreadSheet : public QMainWindow
